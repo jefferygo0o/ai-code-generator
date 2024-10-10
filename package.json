@@ -1,0 +1,12 @@
+{
+  "name": "my-ai-code-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^3.2.1"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
